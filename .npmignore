@@ -13,3 +13,5 @@ tsconfig.*
 *.log
 jest.config.js
 tslint.json
+.rts2*
+yarn.lock

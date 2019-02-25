@@ -1,6 +1,6 @@
 {
   "name": "@marvinh/cancel-token",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny cancel tokens similar to AbortController",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
